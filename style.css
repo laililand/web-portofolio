@@ -115,7 +115,7 @@ section {
 /* About Section */
 #about {
     background-color: rgb(209, 207, 207);
-    padding: 6rem 0;
+    padding: 3rem 0;
 }
 
 .section-title-about {
@@ -157,7 +157,7 @@ section {
 
 /* Education & Experience */
 #education {
-    padding: 6rem 0;
+    padding: 3rem 0;
     background: white;
 }
 
@@ -218,6 +218,11 @@ section {
 }
 
 /* End of Education & Experience */
+
+/* Project */
+#project {
+    padding: 3rem;
+}
 
 /* Contact Section */
 
